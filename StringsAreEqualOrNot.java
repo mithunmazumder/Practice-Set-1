@@ -1,3 +1,5 @@
+package Practice_Set_1;
+
 public class StringsAreEqualOrNot {
     public static void main(String[] args) {
         String str1 = "Mithun";

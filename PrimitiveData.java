@@ -1,3 +1,5 @@
+package Practice_Set_1;
+
 public class PrimitiveData {
     public static void main(String[] args) {
         int a = 0;
